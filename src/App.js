@@ -7,10 +7,10 @@ function App() {
   
   return (
     <div className="App">
-    <h1>New App In Progress</h1>
-    <TaskList/>
-    <TaskForm/>
-    <Task/>
+      <h1>New App In Progress</h1>
+      <TaskList/>
+      <TaskForm/>
+      <Task/>
     </div>
   );
 }
