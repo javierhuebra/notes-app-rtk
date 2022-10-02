@@ -5,7 +5,7 @@ import animalsReducer from '../features/animals/animalsSlice'
 export const store = configureStore({
     reducer: {
         tasks: tasksReducer,
-        products: productsReducer,
-        animals: animalsReducer
+       // products: productsReducer,
+       // animals: animalsReducer
     }, 
 });
